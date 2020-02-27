@@ -1,0 +1,28 @@
+body{
+    font-family: Comic Sans MS;
+    color:blakc;
+    background-image: url(https://i.postimg.cc/HsbBDRn6/1fond.png);
+    
+    }
+
+#oo{
+    background-color:silver;
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    height: 650px;
+    margin-top: -10px;
+    font-size: 40px;
+    }
+
+#ert{
+    text-align: center;
+    font-size: 40px;
+    margin-top: -500px;
+    }
+#tg{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 60px;
+    }
+
